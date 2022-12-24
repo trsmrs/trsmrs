@@ -1,13 +1,17 @@
-### Olá! Eu sou o Tiago Machado ✋ <br>
+### Olá! Eu sou o Tiago Machado ✋<br> <br/>
+ 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagotrsm/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trsm.tiago/)
 
+
+
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsmrs&show_icons=true&theme=radical)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsmrs&layout=compact&bg_color=40,6207bd,6b0e69&title_color=fff&text_color=fff)](https://github.com/trsmrs/github-readme-stats)
+<img src='https://github.com/trsmrs/trsmrs/blob/main/gatito.png' width='150px'/>
 
-## Tecnologias que eu estudo e pratico no meu dia a dia
+## Tecnologias que eu estudo e pratico no meu dia a dia  <kbd><img src='https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif' width='80px'></kbd>
 
 <div style="display: inline_block"><br/>
       <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,6 +28,7 @@
 
 #### A Tecnologia se iniciou em minha vida como um Hobby!
 #### A programação veio como uma vontade de por minhas ideias em algo que eu pudesse ver.
+<hr>
 
  ![Snake animation](https://github.com/trsmrs/tiagomachado/blob/output/github-contribution-grid-snake.svg)
 
