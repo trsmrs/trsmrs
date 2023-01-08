@@ -33,6 +33,6 @@
  ![Snake animation](https://github.com/trsmrs/tiagomachado/blob/output/github-contribution-grid-snake.svg)
 
 
-<!-- <a href="https://github.com/trsmrs/trsmrs">
+<a href="https://github.com/trsmrs/trsmrs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trsmrs&repo=trsmrs" />
-</a> -->
+</a>
