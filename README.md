@@ -8,6 +8,7 @@
 
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsmrs&show_icons=true&theme=radical)</br>
+https://github-readme-stats.vercel.app/api?username=trsmrs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsmrs&layout=compact&bg_color=40,6207bd,6b0e69&title_color=fff&text_color=fff)](https://github.com/trsmrs/github-readme-stats)
 
 
