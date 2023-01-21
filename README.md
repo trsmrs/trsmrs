@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trsm.tiago/)
 
 
-![Tiago' s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trsmrs&&show_icons=true&theme=radical)
-![Tiago' s most used Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trsmrs&layout=compact)
+![Tiago' s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trsmrs&&show_icons=true&theme=radical)<br>
+![Tiago' s most used Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trsmrs&layout=compact&color=black)
 
 
 
