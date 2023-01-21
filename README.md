@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trsm.tiago/)
 
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=@trsmrs)](https://github.com/trsmrs/github-readme-stats)
+[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsmrs)](https://github.com/trsmrs/github-readme-stats)
 
 
 
@@ -32,6 +32,6 @@
  ![Snake animation](https://github.com/trsmrs/tiagomachado/blob/output/github-contribution-grid-snake.svg)
 
 
-<a href="https://github.com/trsmrs/trsmrs">
+<!-- <a href="https://github.com/trsmrs/trsmrs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trsmrs&repo=trsmrs" />
-</a>
+</a> -->
