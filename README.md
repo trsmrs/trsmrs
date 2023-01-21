@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trsm.tiago/)
 
 
-[![Tiago's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trsmrs&&show_icons=true&theme=dark)
+[![Tiago's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trsmrs&&show_icons=true&theme=radical)
 
 
 
