@@ -6,9 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trsm.tiago/)
 
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsmrs)](https://github.com/trsmrs/github-readme-stats)
 [![Tiago's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trsmrs&&show_icons=true&theme=dark)
-
+[![Tiago's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsmrs)
 
 
 ## Tecnologias que eu estudo e pratico no meu dia a dia  <kbd><img src='https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif' width='80px'></kbd>
