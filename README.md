@@ -7,6 +7,7 @@
 
 
 [![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsmrs)](https://github.com/trsmrs/github-readme-stats)
+[![Tiago's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trsmrs&&show_icons=true&theme=dark)
 
 
 
