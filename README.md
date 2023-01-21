@@ -7,7 +7,7 @@
 
 
 ![Tiago' s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trsmrs&&show_icons=true&theme=radical)<br>
-![Tiago' s most used Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trsmrs&layout=compact&&text_color=fff&bg_color=141321&title_color=fd428d) 
+![Tiago' s most used Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trsmrs&layout=compact&&text_color=a8fdf6&bg_color=141321&title_color=fd428d) 
 
 
 
