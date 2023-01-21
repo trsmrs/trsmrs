@@ -6,10 +6,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trsm.tiago/)
 
 
-<!-- 
+
 ![Tiago's GitHub stats]("https://github-readme-stats.vercel.app/api?username=trsmrs&show_icons=true&theme=radical)</br>
 
-[![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=trsmrs&layout=compact&bg_color=40,6207bd,6b0e69&title_color=fff&text_color=fff)](https://github.com/trsmrs/github-readme-stats) -->
+[![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=trsmrs&layout=compact&bg_color=40,6207bd,6b0e69&title_color=fff&text_color=fff)](https://github.com/trsmrs/github-readme-stats)
 
 
 ## Tecnologias que eu estudo e pratico no meu dia a dia  <kbd><img src='https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif' width='80px'></kbd>
