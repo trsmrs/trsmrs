@@ -28,11 +28,4 @@
 
 #### A Tecnologia se iniciou em minha vida como um Hobby!
 #### A programação veio como uma vontade de por minhas ideias em algo que eu pudesse ver.
-<hr>
 
- ![Snake animation](https://github.com/trsmrs/tiagomachado/blob/output/github-contribution-grid-snake.svg)
-
-
-<!-- <a href="https://github.com/trsmrs/trsmrs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trsmrs&repo=trsmrs" />
-</a> -->
