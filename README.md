@@ -1,38 +1,36 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">👋 Olá, eu sou Tiago Machado</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack focado em aplicações modernas e escaláveis.
+  Desenvolvedor Full Stack apaixonado por criar soluções modernas e escaláveis com tecnologias de ponta.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Stacks que utilizo
 
-Trabalho principalmente com:
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" />
+</p>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 👨‍💻 Atualmente focado em construir soluções completas com **NestJS + Next.js**
-- 🧱 Apaixonado por arquitetura de software e boas práticas de código
-- 📚 Sempre aprendendo algo novo — especialmente sobre escalabilidade e performance
+- 🔭 Atualmente focado em projetos com **React.js** e **NestJS**
+- 🧠 Entusiasta de boas práticas, arquitetura limpa e performance
+- 📈 Sempre buscando evoluir como dev full stack
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/seuusuario)
-- 💻 [Portfólio](https://seuportfolio.com)
-- 📧 seuemail@exemplo.com
+- 💼 [LinkedIn](https://linkedin.com/in/trsmtiago)
+- 🌐 [Portfólio](https://seuportfolio.com)
+- 📧 trsminfo@gmail.com
 
 ---
 
